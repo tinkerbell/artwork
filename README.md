@@ -14,23 +14,23 @@ In this repo, we have artwork in 2 formats (PNG & SVG), layouts in portrait & la
 
 
 Tinkerbell-Icon-Dark.png<br/>
-<img  width="480"  src="https://raw.githubusercontent.com/tinkerbell/artwork/master/Tinkerbell-Icon-Dark.png"  />
+<img  width="480"  src="https://raw.githubusercontent.com/tinkerbell/artwork/main/Tinkerbell-Icon-Dark.png"  />
 <br/>
 Tinkerbell-Logo-Landscape-Dark.png<br/>
-<img  width="480"  src="https://raw.githubusercontent.com/tinkerbell/artwork/master/Tinkerbell-Logo-Landscape-Dark.png"  />
+<img  width="480"  src="https://raw.githubusercontent.com/tinkerbell/artwork/main/Tinkerbell-Logo-Landscape-Dark.png"  />
 <br/>
 Tinkerbell-Logo-Portrait-Dark.png<br/>
-<img  width="480"  src="https://raw.githubusercontent.com/tinkerbell/artwork/master/Tinkerbell-Logo-Portrait-Dark.png"  />
+<img  width="480"  src="https://raw.githubusercontent.com/tinkerbell/artwork/main/Tinkerbell-Logo-Portrait-Dark.png"  />
 
 ### Dark Background ###
 
 Tinkerbell-Logo-Landscape-Light.png<br/>
 <div style="background-color: #05254c;">
-<img  width="480"  src="https://raw.githubusercontent.com/tinkerbell/artwork/master/Tinkerbell-Logo-Landscape-Light.png"  />
+<img  width="480"  src="https://raw.githubusercontent.com/tinkerbell/artwork/main/Tinkerbell-Logo-Landscape-Light.png"  />
 </div>
 
 <br/>
 Tinkerbell-Logo-Portrait-Light.png<br/>
 <div style="background-color: #05254c;">
-<img  width="480"  src="https://raw.githubusercontent.com/tinkerbell/artwork/master/Tinkerbell-Logo-Portrait-Light.png"/>
+<img  width="480"  src="https://raw.githubusercontent.com/tinkerbell/artwork/main/Tinkerbell-Logo-Portrait-Light.png"/>
 </div>
